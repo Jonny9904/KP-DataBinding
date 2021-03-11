@@ -26,7 +26,7 @@
     "test:watch": "cross-env NODE_ENV=development karma start karma.unit.js --singleRun=false --auto-watch"
   },
   "dependencies": {
-    "axios": "~0.18.1",
+    "axios": "~0.21.1",
     "highlight.js": "^10.4.1",
     "lodash": "^4.17.19",
     "marked": "^0.3.18",
